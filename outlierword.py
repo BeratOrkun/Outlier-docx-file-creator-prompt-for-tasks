@@ -1,6 +1,7 @@
 # Paste your prompt and the criteria given by Vercel to the app,
 # copy and paste "final_prompt.txt" to the ChatGPT,
 # and your prompt constraints file is ready.
+# pip install kivy (for Mac)
 
 import os
 import re
